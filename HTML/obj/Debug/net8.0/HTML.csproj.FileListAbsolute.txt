@@ -1,0 +1,14 @@
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\bin\Debug\net8.0\HTML.exe
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\bin\Debug\net8.0\HTML.deps.json
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\bin\Debug\net8.0\HTML.runtimeconfig.json
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\bin\Debug\net8.0\HTML.dll
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\bin\Debug\net8.0\HTML.pdb
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.AssemblyInfo.cs
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.dll
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\refint\HTML.dll
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.pdb
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.genruntimeconfig.cache
+Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\ref\HTML.dll
