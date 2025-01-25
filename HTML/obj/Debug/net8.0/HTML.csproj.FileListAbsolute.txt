@@ -12,3 +12,29 @@ Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\
 Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.pdb
 Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\HTML.genruntimeconfig.cache
 Y:\Groups\Group_3\דוננברג חדוה\פרקטי קוד\HTML\HTML\obj\Debug\net8.0\ref\HTML.dll
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\bin\Debug\net8.0\HTML.exe
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.AssemblyInfo.cs
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.sourcelink.json
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.dll
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\refint\HTML.dll
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\.net core\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.pdb
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\bin\Debug\net8.0\HTML.exe
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\bin\Debug\net8.0\files\HtmlTags.json
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\bin\Debug\net8.0\files\HtmlVoidTags.json
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\bin\Debug\net8.0\HTML.deps.json
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\bin\Debug\net8.0\HTML.runtimeconfig.json
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\bin\Debug\net8.0\HTML.dll
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\bin\Debug\net8.0\HTML.pdb
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.AssemblyInfo.cs
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.sourcelink.json
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.dll
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\refint\HTML.dll
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.pdb
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\HTML.genruntimeconfig.cache
+C:\Users\user1\Documents\חדוה תכנות\שנה ב\פרקטיקוד\HtmlSarializer\HTML\obj\Debug\net8.0\ref\HTML.dll
